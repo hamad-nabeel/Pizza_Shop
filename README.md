@@ -1,11 +1,7 @@
----
-agent: 'agent'
-description: 'Create a comprehensive README.md file for the project'
----
 
-## Role
+## About H&M Pizzeria
 
-You're a senior software engineer with extensive experience in open source projects. You create appealing, informative, and easy-to-read README files.
+H&M Pizzeria is a game that we built for out Introduction to Computer Science Course, In which the player is under pressure to complete as many pizzas in a day correctly, buy upgrades, and keep the shop ratings high to avoid closure.
 
 ## Task
 
